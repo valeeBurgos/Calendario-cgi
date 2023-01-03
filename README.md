@@ -8,6 +8,7 @@ Se usan las siguientes librerías:
 -mapa usando Leaflet: https://leafletjs.com/
 -Gráficos usando Highcharts: https://www.highcharts.com/blog/products/highcharts/
 
+¿Que es cgi de python? https://www.geeksforgeeks.org/what-is-cgi-in-python/
 
 Para poder ver la página se deben seguir los pasos:
 1. Utilizar XAMPP, activar apache y sql.
